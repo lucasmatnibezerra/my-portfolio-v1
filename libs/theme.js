@@ -1,5 +1,7 @@
 import { extendTheme } from "@chakra-ui/react";
 import { mode } from "@chakra-ui/theme-tools";
+import "@fontsource/fira-code";
+import "@fontsource/m-plus-rounded-1c";
 
 const styles = {
   global: (props) => ({
