@@ -45,7 +45,7 @@ const Home = () => {
           align="center"
           css={{ backdropFilter: "blur(10px)" }}
         >
-          Hello there! I&apos;m full-stack developer based in Brasil!
+          Hello there! I&apos;m full-stack developer based in Brazil!
         </Box>
 
         <Box display={{ md: "flex" }}>
@@ -98,9 +98,12 @@ const Home = () => {
             <Link> LASSE</Link>
           </NextLink>{" "}
           lab, in a training that was given on Nodejs with the intention of
-          working on a web project — this encouraged me not only to study about
-          backend but also to start to learn more about web page development,
-          and that included learning about the front end.
+          working on a web project — I am currently a researcher at LASSE -
+          Brasilsat group, working as a javascript developer, before that I was
+          part of the Testbed project working on services involving 5G network.
+          I am totally passionate and enthusiastic about technology and
+          programming because I believe it is the way to have a better life
+          experience.
         </Paragraph>
         <Box mt={5}>
           <SimpleGrid columns={2}>
